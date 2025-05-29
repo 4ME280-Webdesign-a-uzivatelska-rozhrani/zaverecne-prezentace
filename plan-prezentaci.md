@@ -27,7 +27,7 @@ instrukce: >
 | 10:30 | K. Vrbová                        |
 | 10:37 |    zuzana jirankova                     |
 | 10:44 |   Kateřina Karásková                      |
-| 10:51 |                         |
+| 10:51 |   Katarína Drgová                      |
 | 10:56 | **5 minut přestávka**   |
 | 11:01 |  Filip Ouzký            |
 | 11:08 |                         |
