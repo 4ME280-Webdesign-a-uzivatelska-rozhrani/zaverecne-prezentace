@@ -19,7 +19,7 @@ instrukce: >
 | 09:40 | **5 minut přestávka**   |
 | 09:45 |                         |
 | 09:52 |  Štěpánka Byrtusová                        |
-| 09:59 |                         |
+| 09:59 |  David Mach                       |
 | 10:06 |                         |
 | 10:13 |                         |
 | 10:18 | **5 minut přestávka**   |
