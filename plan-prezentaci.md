@@ -31,7 +31,7 @@ instrukce: >
 | 10:56 | **5 minut přestávka**   |
 | 11:01 |  Filip Ouzký            |
 | 11:08 |                         |
-| 11:15 |                         |
+| 11:15 |       Lucie Kubíková    |
 | 11:22 |                         |
 | 11:29 |    Filip Ouzký                     |
 | 11:34 | **5 minut přestávka**   |
