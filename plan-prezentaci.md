@@ -11,21 +11,21 @@ instrukce: >
 | Čas   | Jméno                   |
 |-------|-------------------------|
 | 09:00 | **Shrnutí workshopu**   |
-| 09:07 |                         |
+| 09:07 |       David JAN SLABA   |
 | 09:14 |         Slaba David Jan |
-| 09:21 |                         |
+| 09:21 |                  Kateřina Rozkošná       |
 | 09:28 |                         |
 | 09:35 |                         |
 | 09:40 | **5 minut přestávka**   |
 | 09:45 |                         |
-| 09:52 |                         |
-| 09:59 |                         |
+| 09:52 |  Štěpánka Byrtusová                        |
+| 09:59 |  David Mach                       |
 | 10:06 |                         |
 | 10:13 |                         |
 | 10:18 | **5 minut přestávka**   |
 | 10:23 |                         |
-| 10:30 |                         |
-| 10:37 |                         |
+| 10:30 | K. Vrbová                        |
+| 10:37 |    zuzana jirankova                     |
 | 10:44 |                         |
 | 10:51 |                         |
 | 10:56 | **5 minut přestávka**   |
@@ -33,11 +33,11 @@ instrukce: >
 | 11:08 |                         |
 | 11:15 |                         |
 | 11:22 |                         |
-| 11:29 |                         |
+| 11:29 |    Filip Ouzký                     |
 | 11:34 | **5 minut přestávka**   |
-| 11:39 |                         |
-| 11:46 |                         |
-| 11:53 |                         |
+| 11:39 |   Markéta Vrátná                      |
+| 11:46 | Tereza Ryšavá                        |
+| 11:53 |  Nela Flosová                       |
 | 12:00 |                         |
 | 12:07 |                         |
 | 12:12 | **5 minut přestávka**   |
