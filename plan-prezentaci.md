@@ -25,7 +25,7 @@ instrukce: >
 | 10:18 | **5 minut přestávka**   |
 | 10:23 |                         |
 | 10:30 | K. Vrbová                        |
-| 10:37 |                         |
+| 10:37 |    zuzana jirankova                     |
 | 10:44 |                         |
 | 10:51 |                         |
 | 10:56 | **5 minut přestávka**   |
