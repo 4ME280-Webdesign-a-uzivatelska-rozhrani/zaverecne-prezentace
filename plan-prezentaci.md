@@ -29,15 +29,15 @@ instrukce: >
 | 10:44 |   Kateřina Karásková                      |
 | 10:51 |   Katarína Drgová                      |
 | 10:56 | **5 minut přestávka**   |
-| 11:01 |                         |
-| 11:08 |                         |
-| 11:15 |Lucie Šarochová|
+| 11:01 |   Tereza Ryšavá         |
+| 11:08 |   Nela Flosová          |
+| 11:15 |   Lucie Šarochová       |
 | 11:22 |   Lucie Kubíková        |
 | 11:29 |    Filip Ouzký                     |
 | 11:34 | **5 minut přestávka**   |
 | 11:39 |   Markéta Vrátná                      |
-| 11:46 | Tereza Ryšavá                        |
-| 11:53 |  Nela Flosová                       |
+| 11:46 |                         |
+| 11:53 |                       |
 | 12:00 | Kristián Ulrych         |
 | 12:07 |              Tomáš Pospíchal           |
 | 12:12 | **5 minut přestávka**   |
