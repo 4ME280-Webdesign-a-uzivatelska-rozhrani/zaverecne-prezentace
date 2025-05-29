@@ -13,7 +13,7 @@ instrukce: >
 | 09:00 | **Shrnutí workshopu**   |
 | 09:07 |                         |
 | 09:14 |     David JAN SLABA     |
-| 09:21 |                         |
+| 09:21 |                  Kateřina Rozkošná       |
 | 09:28 |                         |
 | 09:35 |                         |
 | 09:40 | **5 minut přestávka**   |
