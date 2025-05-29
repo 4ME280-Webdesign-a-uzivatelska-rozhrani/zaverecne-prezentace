@@ -39,7 +39,7 @@ instrukce: >
 | 11:46 | Tereza Ryšavá                        |
 | 11:53 |  Nela Flosová                       |
 | 12:00 | Kristián Ulrych         |
-| 12:07 |                         |
+| 12:07 |              Tomáš Pospíchal           |
 | 12:12 | **5 minut přestávka**   |
 | 12:17 |                         |
 | 12:24 |                         |
