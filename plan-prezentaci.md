@@ -37,7 +37,7 @@ instrukce: >
 | 11:34 | **5 minut přestávka**   |
 | 11:39 |   Markéta Vrátná                      |
 | 11:46 | Tereza Ryšavá                        |
-| 11:53 |                         |
+| 11:53 |  Nela Flosová                       |
 | 12:00 |                         |
 | 12:07 |                         |
 | 12:12 | **5 minut přestávka**   |
