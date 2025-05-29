@@ -14,8 +14,8 @@ instrukce: >
 | 09:07 |       David JAN SLABA   |
 | 09:14 |        |
 | 09:21 |                  Kateřina Rozkošná       |
-| 09:28 |                         |
-| 09:35 |                         |
+| 09:28 | Tomáš Mlynář                        |
+| 09:35 |  Daniel Křížek                       |
 | 09:40 | **5 minut přestávka**   |
 | 09:45 |                         |
 | 09:52 |  Štěpánka Byrtusová                        |
