@@ -25,7 +25,7 @@ instrukce: >
 | 10:18 | **5 minut přestávka**   |
 | 10:23 |                         |
 | 10:30 | K. Vrbová                        |
-| 10:37 |    zuzana jirankova                     |
+| 10:37 |                      |
 | 10:44 |   Kateřina Karásková                      |
 | 10:51 |   Katarína Drgová                      |
 | 10:56 | **5 minut přestávka**   |
@@ -37,7 +37,7 @@ instrukce: >
 | 11:34 | **5 minut přestávka**   |
 | 11:39 |   Markéta Vrátná                      |
 | 11:46 |                         |
-| 11:53 |                       |
+| 11:53 |     Zuzana Jiránková                  |
 | 12:00 | Kristián Ulrych         |
 | 12:07 |              Tomáš Pospíchal           |
 | 12:12 | **5 minut přestávka**   |
