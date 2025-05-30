@@ -45,5 +45,5 @@ instrukce: >
 | 12:24 |         Zuzana Jiránková                |
 | 12:31 ||
 | 12:38 |                         |
-| 12:45 |      Konstantin Kim                   |
+| 12:45 | |
 | 12:52 | **Závěr**               |
