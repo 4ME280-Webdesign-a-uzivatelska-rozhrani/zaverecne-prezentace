@@ -37,12 +37,12 @@ instrukce: >
 | 11:34 | **5 minut přestávka**   |
 | 11:39 |   Markéta Vrátná                      |
 | 11:46 |                         |
-| 11:53 |     Zuzana Jiránková                  |
+| 11:53 |                       |
 | 12:00 |      |
 | 12:07 |              Tomáš Pospíchal           |
 | 12:12 | **5 minut přestávka**   |
 | 12:17 |                         |
-| 12:24 |                         |
+| 12:24 |         Zuzana Jiránková                |
 | 12:31 |                         |
 | 12:38 |                         |
 | 12:45 |                         |
