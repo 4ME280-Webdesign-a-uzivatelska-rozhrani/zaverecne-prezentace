@@ -38,7 +38,7 @@ instrukce: >
 | 11:39 |   Markéta Vrátná                      |
 | 11:46 |                         |
 | 11:53 |     Zuzana Jiránková                  |
-| 12:00 | Kristián Ulrych         |
+| 12:00 |      |
 | 12:07 |              Tomáš Pospíchal           |
 | 12:12 | **5 minut přestávka**   |
 | 12:17 |                         |
