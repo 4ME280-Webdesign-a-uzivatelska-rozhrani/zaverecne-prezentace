@@ -43,7 +43,7 @@ instrukce: >
 | 12:12 | **5 minut přestávka**   |
 | 12:17 |                         |
 | 12:24 |         Zuzana Jiránková                |
-| 12:31 |                         |
+| 12:31 |Konstantin Kim|
 | 12:38 |                         |
 | 12:45 |                         |
 | 12:52 | **Závěr**               |
